@@ -26,3 +26,5 @@ Input must be a csv file and data is read from it.
 >hot wings,$3.55       
 >mozzarella sticks,$4.20          
 >sampler plate,$5.80       
+
+**screenshot of sample output is provided as jpg file.**
