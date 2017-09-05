@@ -11,9 +11,10 @@ Input must be a csv file and data is read from it.
 
 **Instructions on how to run the program from command line:**    
     '''
-    g++ -std=c++11 combinationOfDishes.cpp -o combinationOfDishes    
-    ./combinationOfDishes input_file.csv    
+    'g++ -std=c++11 combinationOfDishes.cpp -o combinationOfDishes'   
+    './combinationOfDishes input_file.csv'    
     '''
+    
 Here are some sample data values: 
 >
 >Target price, $30.10
