@@ -9,11 +9,11 @@ Input must be a csv file and data is read from it.
   3. If there is no solution if found, then the program will print that there is no combination of dishes that is equal to the target price. 
   4. The program can run with different data files
 
-**Instructions on how to run the program from command line:**
-    '''cpp
-    g++ combinationOfDishes.cpp -o combinationOfDishes
-    ./combinationOfDishes input_file.csv
-    '''
+**Instructions on how to run the program from command line:**    
+    '''cpp     
+    g++ combinationOfDishes.cpp -o combinationOfDishes    
+    ./combinationOfDishes input_file.csv    
+    '''    
 Here are some sample data values: 
 >
 >Target price, $30.10
