@@ -17,9 +17,9 @@ Here are some sample data values:
 
 Target price, $30.10
 
-mixed fruit,$2.15
-french fries,$2.75
-side salad,$3.35
-hot wings,$3.55
-mozzarella sticks,$4.20
-sampler plate,$5.80
+mixed fruit,$2.15    
+french fries,$2.75    
+side salad,$3.35    
+hot wings,$3.55    
+mozzarella sticks,$4.20    
+sampler plate,$5.80    
