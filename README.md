@@ -1,6 +1,6 @@
 # combination-of-dishes-to-meet-target-price
 
-Program which will process the data listed below. 
+Program which will process the data to find out the combination of prices to sum up to target price listed below. 
 Input must be a csv file and data is read from it. 
 
 **Input constraints:**
