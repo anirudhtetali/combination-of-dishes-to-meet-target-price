@@ -16,8 +16,8 @@ Input must be a csv file and data is read from it.
      
     
 Here are some sample data values: 
-'
-Target price, $30.10
+
+'Target price, $30.10
 
 mixed fruit,$2.15    
 french fries,$2.75    
