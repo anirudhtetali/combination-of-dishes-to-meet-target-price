@@ -10,10 +10,10 @@ Input must be a csv file and data is read from it.
   4. The program can run with different data files
 
 **Instructions on how to run the program from command line:**    
-    '''
+    
     'g++ -std=c++11 combinationOfDishes.cpp -o combinationOfDishes'   
     './combinationOfDishes input_file.csv'    
-    '''
+     
     
 Here are some sample data values: 
 >
