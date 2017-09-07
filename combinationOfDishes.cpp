@@ -1,4 +1,4 @@
-// Backtracking_oops.cpp : Defines the entry point for the console application.
+// combinationOfDishes.cpp : Defines the entry point for the console application.
 //Author: Anirudh Tetali
 //Date: 4th Sept. 2017
 
